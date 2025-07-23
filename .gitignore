@@ -1,0 +1,4 @@
+problem.lp
+__pycache__
+*.pyc 
+docs/build
